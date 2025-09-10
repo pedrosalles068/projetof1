@@ -6,7 +6,7 @@ Este projeto é uma API simples de Fórmula 1 desenvolvida com Node.js, TypeScri
 
 1. **Clone o repositório**
    ```bash
-   git clone <[URL_DO_SEU_REPOSITORIO](https://github.com/pedrosalles068/projetof1.git)>
+   git clone <https://github.com/pedrosalles068/projetof1.git>
    cd projetof1
    ```
 2. **Instale as dependências**
